@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2020-08-27T17:17:34.182Z" agent="5.0 (X11)" etag="WmAzWnS-J-0hgvBcxppH" version="13.6.5" type="github">
+  <diagram id="5a1oBptWj6S59b9BkMHH" name="Page-1">
+    <mxGraphModel dx="868" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="40" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-3" value="MAP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="50" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-4" value="&lt;div&gt;Map&lt;/div&gt;&lt;div&gt;Vehicle positions&lt;br&gt;&lt;/div&gt;&lt;div&gt;Bathymetry&lt;/div&gt;&lt;div&gt;Short info about vehicle and its productivity with chart&lt;/div&gt;&lt;div&gt;This page shows information in real-time&lt;/div&gt;&lt;div&gt;Load drawings and bathymetry to system&lt;/div&gt;&lt;div&gt;Control loaded data&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="80" y="65" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;align=left;" parent="1" vertex="1">
+          <mxGeometry x="360" y="40" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-6" value="VEHICLE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="360" y="50" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-7" value="&lt;div&gt;Vehicles position, tracks, and bathymetry on map&lt;/div&gt;&lt;div&gt;Productivity chart&lt;br&gt;&lt;/div&gt;&lt;div&gt;eJournal&lt;/div&gt;&lt;div&gt;Date range selectors to look at history&lt;/div&gt;&lt;div&gt;Load drawings and target bathimetry for specified vehicle&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="360" y="65" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-9" value="REPORTS SUBSYS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="80" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-11" value="Print specified reports or send it to e-mail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="80" y="270" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-12" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="360" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-13" value="USER PROFILE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-14" value="&lt;div&gt;Adjust user data - username, site parameters. email. timezone, password&lt;br&gt;&lt;/div&gt;&lt;div&gt;Adjust regular email reports&lt;br&gt; &lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="360" y="270" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=12;align=left;" parent="1" vertex="1">
+          <mxGeometry x="640" y="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-16" value="ADMIN SUBSYS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="640" y="250" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DiZyjtH27PqaCSHbvhdz-17" value="&lt;div&gt;Add, delete and modify users, vehicles&lt;/div&gt;&lt;div&gt;Set roles for users&lt;/div&gt;&lt;div&gt;System journal and audit&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="270" width="160" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
